@@ -1,0 +1,57 @@
+{
+  "title": "Social Support Application",
+  "language": {
+    "en": "EN",
+    "ar": "AR"
+  },
+  "steps": {
+    "personalDetails": "Personal Details",
+    "financialInformation": "Financial Information", 
+    "assistanceDetails": "Assistance Details"
+  },
+  "form": {
+    "fullName": "Full Name",
+    "dateOfBirth": "Date of Birth",
+    "address": "Address",
+    "nationalId": "National ID",
+    "phoneNumber": "Phone Number",
+    "email": "Email",
+    "employmentStatus": "Employment Status",
+    "monthlyIncome": "Monthly Income",
+    "dependents": "Number of Dependents",
+    "financialHardship": "Describe your financial hardship",
+    "assistanceNeeded": "What type of assistance do you need?",
+    "additionalInfo": "Additional Information"
+  },
+  "employmentStatus": {
+    "employed": "Employed",
+    "unemployed": "Unemployed",
+    "selfEmployed": "Self-Employed",
+    "retired": "Retired",
+    "student": "Student"
+  },
+  "buttons": {
+    "back": "Back",
+    "next": "Next",
+    "submit": "Submit Application",
+    "accept": "Accept",
+    "edit": "Edit",
+    "discard": "Discard",
+    "helpMeWrite": "Help Me Write"
+  },
+  "ai": {
+    "suggestedText": "Suggested Text from AI Assistant",
+    "generating": "Generating suggestion...",
+    "error": "Failed to generate suggestion. Please try again."
+  },
+  "validation": {
+    "required": "This field is required",
+    "invalidEmail": "Please enter a valid email address",
+    "invalidPhone": "Please enter a valid phone number",
+    "invalidDate": "Please enter a valid date"
+  },
+  "success": {
+    "applicationSubmitted": "Application submitted successfully!",
+    "progressSaved": "Progress saved successfully"
+  }
+}
